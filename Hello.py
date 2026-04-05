@@ -1,0 +1,1 @@
+print("Hello World , This is Nishu first code on GitHub!")
